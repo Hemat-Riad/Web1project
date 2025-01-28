@@ -1,0 +1,106 @@
+h1{
+  text-align: center;
+  Color: rgb(212, 255, 152);
+  background-color: coral;
+}
+h2{
+    text-align: center;
+  Color:rgb(212, 200, 152); 
+}
+h3{
+    text-align: center;
+  Color: rgb(212, 200, 152);
+}
+h4{
+    text-align: center;
+  Color: rgb(212, 200, 152);
+}
+h5{
+    text-align: center;
+  Color: rgb(212, 200, 152);
+}
+h6{
+    text-align: center;
+    Color: rgb(212, 200, 152);
+}
+
+p {
+   margin: 20px;
+   padding: 0px;
+   border: solid 4px red;
+   background-color: rgba(253,29,29,1);
+}
+#p1{
+  color: aliceblue;
+}
+#p2{
+  color: rgb(255, 228, 178);
+}
+#p3{
+  color: #dba5b0
+}
+.apple{
+  color: rgb(205, 164, 134);
+}
+.pineapple{
+  color: darkgray;
+}
+.orange{
+  color: bisque;
+}
+
+hr {
+    width: auto;
+    height: 10px;
+    background-color: red;
+}
+body{
+    background: rgb(255,183,0);
+background: linear-gradient(90deg, rgba(255,183,0,1) 11%, rgba(253,29,29,1) 49%, rgba(252,170,69,1) 77%);
+}
+title{
+    text-align: center;
+    Color: rgb(88, 155, 155);
+}
+title{
+    text-align: center;
+    Color: rgb(88, 155, 155);
+}
+.sauce{
+  color: cornsilk;
+}
+.divOne{
+  border: solid 5px red;
+  background-color: rgb(237, 221, 203);
+  text-align: center;
+}
+.divOne h2{
+  color: blanchedalmond;
+}
+.divOne p{
+  color: whitesmoke;
+}
+.divOne {
+  width: 280px;
+  height: 210px;
+  background-color:orangered;
+}
+.divTwo {
+  width: 100px;
+  height: 100px;
+  background-color:rgb(222, 185, 171);
+}
+.divThree {
+  width: 100px;
+  height: 200px
+
+}
+
+  .divThree {
+    width: 100xpx;
+    height: 100px;
+    background-color: blue;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}

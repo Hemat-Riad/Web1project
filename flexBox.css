@@ -1,0 +1,153 @@
+.flex-container {
+    display: flex;
+    flex-flow: nowrap row;
+
+    height: 500px;
+    width: 1400px;
+    background-color: blueviolet;
+    justify-content:center;
+    align-items: center;
+    border: solid 5px black;
+   
+}
+       
+
+
+h1 {
+    text-align: center;
+    color: rgb(164, 234, 61);
+    
+}
+.flex-container > div {
+   
+    width: 200px;
+    height: 100px;
+    margin: 0px;
+    text-align: center;
+    font-size: 30px;
+    color: #f5aaaa;
+    border: solid 5px rgb(215, 176, 50);
+}
+#div1{
+    background-color: rgb(142, 142, 142);
+    width: 280px;
+    height: 170px;
+    border: dotted 15px burlywood;
+    align-self:start; 
+
+}
+
+#div2{
+    background-color: rgb(37, 37, 37);
+    border: solid 3px green; 
+    width: 280px;
+    height: 170px;
+    align-self:end; 
+}
+
+#div3{
+    background-color: rgb(37, 37, 37);
+    border: solid 3px green; 
+    width: 280px;
+    height: 170px;
+    align-self:start; 
+}
+
+#div4{
+    background-color: rgb(37, 37, 37);
+    border: solid 3px green; 
+    width: 280px;
+    height: 170px;
+    align-self:end; 
+}
+#div5{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(76, 165, 165);
+    border: dotted 8px rgb(118, 130, 118); 
+     width: 280px;
+    height: 170px;
+    align-self:start;
+    color: #fd0303;
+   
+}
+
+.allimg {
+    height: 100px;
+    width: 100px;
+}
+.c3img {
+    height: 100px;
+    width: 100px;
+}
+#div11 {
+    height: 100px;
+    width: 100px;
+    justify-content: space-evenly;
+}
+#div22 {
+    height: 100px;
+    width: 100px;
+    justify-content: space-evenly;
+    
+
+}
+.flex-container4{ 
+    height: 500px;
+    width: 1400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: aquamarine;
+    border: solid 5px black;
+   
+}
+#right-div2 {
+    height: 350px;
+    border: solid 1px black;
+    width: 500px;
+    background-image: url(web\ nummer\ 2\ bild.jpg); 
+    background-repeat: no-repeat;
+    background-size: 600px;
+ 
+    
+}
+#left-div1 {
+    height: 350px;
+    border: solid 1px black;
+    width: 500px;
+    background-image: url(nummer\ 2\ web\ bild.jpg);
+    background-repeat: no-repeat;
+    background-size: 400px 300px;
+}
+#text1 {
+    font-size: 20px;
+    color: red;
+    text-align: center;
+    
+}
+
+.flex-container5{
+    display: flex;
+    flex-flow: nowrap row;
+    height: 500px;
+    width: 1400px;
+    background-color: blueviolet;
+    justify-content:flex-start;
+    align-items: center;
+    border: solid 5px black;
+}
+
+#left-div3 {
+    height: 350px;
+    border: solid 1px black;
+    width: 500px;
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: 400px 300px;
+    justify-content: flex-start;
+    
+}
+
+
